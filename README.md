@@ -4,9 +4,7 @@
 
 Path planning using A-star algorithm.
 
-## Author
-
-[Marcos Canales Mayo](https://github.com/MarcosCM)
+## References
 
 Main code developed by **Luis Montano Gella** -- montano@unizar.es
 
